@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="team1706"/>
+	<classpathentry excluding="team1706/" kind="src" path=""/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/edu"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
